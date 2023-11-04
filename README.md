@@ -1,4 +1,4 @@
-# 100_Perulangan_NPM_038
+# 100 Perulangan
 
 1. Program akan mencetak angka dari 1 hingga 9 ke layar, masing-masing diikuti dengan baris baru, karena pernyataan System.out.println(nilai); dipanggil pada setiap iterasi loop.
 
